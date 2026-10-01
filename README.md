@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-About Me
 
 I am a Computer Engineering graduate from Prince Mohammad Bin Fahd University with hands-on experience in Artificial Intelligence, Embedded Systems, IoT, and enterprise solutions. I have worked on projects involving smart systems, robotics, AI applications, and LiDAR sensor integration. I am passionate about technology, problem-solving, and developing practical solutions that combine hardware and software.
 
